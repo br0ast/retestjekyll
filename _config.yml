@@ -19,3 +19,5 @@ permalink: /:categories/:year/:month/:day/:title/
 
 #baseurl: /
 url: https://br0ast.github.io/retestjekyll/
+
+theme: jekyll-theme-minimal
