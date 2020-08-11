@@ -17,7 +17,7 @@ defaults:
 
 permalink: /:categories/:year/:month/:day/:title/
 
-baseurl: https://spice-h2020.github.io/
-url: https://spice-h2020.github.io/
+baseurl: https://br0ast.github.io/retestjekyll/
+url: https://br0ast.github.io/retestjekyll/
 
 theme: jekyll-theme-minimal
